@@ -1,12 +1,12 @@
 {
   "dependencies": {
-    "discord.js": "^14.13.0"
+    "discord.js": "^14.13.0",
+    "fs": "^0.0.1-security"
   },
   "name": "pixel_bot",
   "description": "Version améliorée de mon Bot Discord (en JavaScript cette fois)",
   "version": "1.0.0",
   "main": "index.js",
-  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -19,5 +19,6 @@
   "bugs": {
     "url": "https://github.com/Alvin-Kita/Pixel_Bot/issues"
   },
-  "homepage": "https://github.com/Alvin-Kita/Pixel_Bot#readme"
+  "homepage": "https://github.com/Alvin-Kita/Pixel_Bot#readme",
+  "devDependencies": {}
 }
