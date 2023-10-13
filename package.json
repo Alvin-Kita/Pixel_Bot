@@ -1,5 +1,23 @@
 {
   "dependencies": {
     "discord.js": "^14.13.0"
-  }
+  },
+  "name": "pixel_bot",
+  "description": "Version améliorée de mon Bot Discord (en JavaScript cette fois)",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alvin-Kita/Pixel_Bot.git"
+  },
+  "author": "Alvin KITA",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alvin-Kita/Pixel_Bot/issues"
+  },
+  "homepage": "https://github.com/Alvin-Kita/Pixel_Bot#readme"
 }
