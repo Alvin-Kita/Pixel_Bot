@@ -1,7 +1,8 @@
 {
   "dependencies": {
     "discord.js": "^14.13.0",
-    "fs": "^0.0.1-security"
+    "fs": "^0.0.1-security",
+    "puppeteer": "^21.3.8"
   },
   "name": "pixel_bot",
   "description": "Version améliorée de mon Bot Discord (en JavaScript cette fois)",
