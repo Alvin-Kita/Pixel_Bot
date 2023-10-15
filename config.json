@@ -1,0 +1,7 @@
+{
+	"token": "TOKEN du bot",
+	"clientId": "id de l'app discord",
+	"guildId": "id du serveur",
+	"urlP1": "début de l'url",
+	"urlP2": "fin de l'url"
+}
